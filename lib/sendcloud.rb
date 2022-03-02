@@ -9,7 +9,7 @@ require 'sendcloud/version'
 
 module Sendcloud
 
-  API_BASE = 'https://sendcloud.sohu.com/webapi'
+  API_BASE = 'https://api.sendcloud.net/webapi'
 
   class Error < StandardError; end
 
